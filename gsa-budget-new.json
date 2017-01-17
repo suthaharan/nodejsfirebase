@@ -1,7 +1,0 @@
-{
-    "apiKey": "<apiKey>",
-    "authDomain": "<authdomain>",
-    "databaseURL": "<firebaseURL>,
-    "storageBucket": "<storageBucket>",
-    "messagingSenderId": "<messagingSenderId"
-}
