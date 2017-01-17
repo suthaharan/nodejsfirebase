@@ -1,7 +1,7 @@
 {
-    "apiKey": "AIzaSyB5xhEc9KNSpdJDqm2YPk9dEPmclEIMinU",
-    "authDomain": "budget-9d799.firebaseapp.com",
-    "databaseURL": "https://budget-9d799.firebaseio.com",
-    "storageBucket": "budget-9d799.appspot.com",
-    "messagingSenderId": "341135926903"
+    "apiKey": "<apiKey>",
+    "authDomain": "<authdomain>",
+    "databaseURL": "<firebaseURL>,
+    "storageBucket": "<storageBucket>",
+    "messagingSenderId": "<messagingSenderId"
 }
