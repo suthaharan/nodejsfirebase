@@ -12,6 +12,7 @@
     "firebase": "^3.6.5",
     "firebase-admin": "^4.0.4",
     "q": "^1.4.1",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
   }
 }
